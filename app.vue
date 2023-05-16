@@ -1,3 +1,6 @@
 <template>
-  <h1 class="text-blue-500">Hola Mundo!!</h1>
+  <TheHeader />
+  <main class="container mx-auto">
+    <NuxtPage />
+  </main>
 </template>
